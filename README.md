@@ -23,10 +23,11 @@ PHP
 MySQL
 
 ## How to Run
-Clone the repository to your local machine.
-Set up a local server environment with PHP and MySQL.
-Import the database schema provided in veterinarian.sql to your MySQL database.
-Update the PHP server details in the project files to match your local environment.
-Start the local server.
-Navigate to the project directory.
-Open the project in a web browser.
+1. Clone the repository to your local machine.
+2. Set up a local server environment with PHP and MySQL.
+3. Import the database schema provided in veterinarian.sql to your MySQL database.
+4. Update the PHP server details in the project files to match your local environment.
+5. Start the local server.
+6. Navigate to the project directory.
+7. Open the project in a web browser.
+
